@@ -35,7 +35,7 @@ const Topbar: React.FC = () => {
           <HeaderOption Icon={BusinessCenterIcon} title="Jobs" />
           <HeaderOption Icon={ChatIcon} title="Messaging" />
           <HeaderOption Icon={NotificationsIcon} title="Notification" />
-          {/* <HeaderOption avatar={true} title="me" onClick={logoutOfApp} /> */}
+          <HeaderOption avatar={true} title="me" onClick={logoutOfApp} />
         </div>
       </div>
     </React.Fragment>

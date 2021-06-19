@@ -27,7 +27,7 @@
     top: 0;
     display: flex;
     background-color: #fff;
-    justify-content: space-evenly;
+    justify-content: space-between;
     border-bottom: 0.1px solid lightgray;
     width: 100%;
     z-index: 500;
@@ -49,7 +49,7 @@
     display: flex;
     align-items: center;
     border-radius: 5px;
-    height: 22px;
+    height: 90%;
     color: gray;
     background-color: #eef3f8;
   }
